@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.engin1980.todeleteplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.engin1980.todeleteplugin.MyBundle
 
 class MyApplicationService {
 
